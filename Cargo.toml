@@ -1,6 +1,6 @@
 [package]
 authors = ["Stefan Kewatt <stefan.kewatt@gmail.com>"]
-name = "CodePage"
+name = "code_page"
 version = "0.1.0"
 edition = "2021"
 
